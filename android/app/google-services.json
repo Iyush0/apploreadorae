@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981180336116",
+    "project_id": "adorae-e610e",
+    "storage_bucket": "adorae-e610e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981180336116:android:9c5a5f39e7dfdf79b59ba1",
+        "android_client_info": {
+          "package_name": "com.adorae.adorae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981180336116-6571bb51fjhr4id2vaktml498a8qmco4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adorae.adorae",
+            "certificate_hash": "a6174c6cc1771fda7a84aa99716a9745452ad029"
+          }
+        },
+        {
+          "client_id": "981180336116-3ahn03ph3gndogf34574at2egp8ialfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2zdoOF9LKeGlYSrbG9oUIYcSJUacm9D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981180336116-3ahn03ph3gndogf34574at2egp8ialfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
